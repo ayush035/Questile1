@@ -14,7 +14,7 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 - [TypeScript](https://www.typescriptlang.org)
 
 ## UNS Domain Resolution API, hosted by Alchemy
-### Project Name - PensionFi
+### Project Name - Questile
 ### PR link to the public repo - https://github.com/ayush035/Questile1
 ### Recorded Video Demo of the integration - https://youtu.be/FonCN-RPthA
 ### Person of contact in case there are any questions - Ayush Gupta
