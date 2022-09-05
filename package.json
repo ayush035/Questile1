@@ -55,6 +55,12 @@
     "wagmi": "^0.4.6",
     "zustand": "^4.0.0-rc.1"
   },
+  "engines": {
+    "yarn": "0.23.2"
+  },
+
+
+
   "devDependencies": {
     "@types/color": "^3.0.3",
     "@types/multiparty": "^0.0.33",
